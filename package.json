@@ -1,0 +1,23 @@
+{
+  "name": "drummer-kit",
+  "version": "1.0.0",
+  "description": "The drummer kit app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkapenda/DrummerKit-App.git"
+  },
+  "author": "Willem Kapenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkapenda/DrummerKit-App/issues"
+  },
+  "homepage": "https://github.com/wkapenda/DrummerKit-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
