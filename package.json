@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/wkapenda/DrummerKit-App/issues"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "homepage": "https://github.com/wkapenda/DrummerKit-App#readme",
   "dependencies": {
     "express": "^4.17.1"
